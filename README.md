@@ -30,9 +30,10 @@ For example: **le**v**el**, **rac**e **car**, **Go hang a salami**, **I'm a lasa
 * **Output**: string of words, sorted alphabetically
 * Ignore case when sorting -e.g. "The" is same as "the"
 * Words in the output string should have same case as input\
-**For example**: Input: "banana ORANGE apple" - Output: "apple banana ORANGE" \
-**Note**: Affter slipt words of a string, we can't use sort() because the sort function will prioritize words beginning with capital letter ahead of words with lowercase letters. \
-**Solution**: append lowercase copy before the original words, then using sort function.
+**For example**: Input: "banana ORANGE apple" - Output: "apple banana ORANGE" 
+
+**Note**: Affter split words of a string, we can't use sort() because the sort function will prioritize words beginning with capital letter ahead of words with lowercase letters. \
+**Solution**: append lowercase copy before the original words, then using sort function, and strip off the lowercase copy.
 
 
 
