@@ -13,7 +13,6 @@ Python Practice
 *Write a Python function to find all prime factors* 
 * **Input**: integer value 
 * **Output**: list of prime factors 
----
 
 ### 1.2 Identify a palindrome
 ---
@@ -22,12 +21,12 @@ Python Practice
 * **Input**: string to evaluate 
 * **Output**: boolean value 
 * Only consider letters (A-Z) 
-* Ignore case (for example, "A" == "a") 
+* Ignore case (for example, "A" == "a") \
 
 **What is a palindrome?** \
 Word or phrase that reads the same forwards as backwards \
 For example: **le**v**el**, **rac**e **car**, **Go hang a salami**, **I'm a lasagna hog**.
----
+
 
 ### 1.3 Sort a string
 ---
@@ -45,10 +44,8 @@ For example: **le**v**el**, **rac**e **car**, **Go hang a salami**, **I'm a lasa
 
 
 ## FAQ
-
 - **How do I do *specifically* so and so?**
     - No problem! Just do this.
 
----
 
 
