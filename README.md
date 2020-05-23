@@ -5,7 +5,9 @@ Python Practice
 **Step 1**: run python \
 **Step 2**: \>> from [namefile] import [namedef] \
 **Step 3**: \>> [namedef]\(value)
-### 1.1 Find prime factors
+<div class="text-blue mb-2">
+  ### 1.1 Find prime factors
+</div>
 **CHALLENGES** \
 *Write a Python function to find all prime factors* 
 * **Input**: integer value 
