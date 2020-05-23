@@ -21,7 +21,7 @@ Python Practice
 * **Input**: string to evaluate 
 * **Output**: boolean value 
 * Only consider letters (A-Z) 
-* Ignore case (for example, "A" == "a") \
+* Ignore case (for example, "A" == "a") 
 
 **What is a palindrome?** \
 Word or phrase that reads the same forwards as backwards \
