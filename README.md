@@ -41,7 +41,15 @@ For example: **le**v**el**, **rac**e **car**, **Go hang a salami**, **I'm a lasa
 **Note**: Affter split words of a string, we can't use sort() because the sort function will prioritize words beginning with capital letter ahead of words with lowercase letters. \
 **Solution**: append lowercase copy before the original words, then using sort function, and strip off the lowercase copy.
 
-
+---
+### 1.4  Find all list items
+**CHALLENGES**\
+*Write a Python function to index all items in a list* 
+* **Input**: list to search, value to search for 
+* **Output**: list of indices\
+\>> example = [[[1,2,3], 2, [1,3]], [1,2,3]]\
+\>> index_all(example,2)\
+\>> [[0,0,1],[0,1],[1,1]]
 
 ## FAQ
 - **How do I do *specifically* so and so?**
