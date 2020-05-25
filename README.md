@@ -54,13 +54,18 @@ For example: **le**v**el**, **rac**e **car**, **Go hang a salami**, **I'm a lasa
 ---
 ### 1.5 Play the waiting game
 **CHALLENGES** \
-*Write a Python function to play a pulse pounding game of the patience: The Waiting Game*
+*Write a Python function to play a pulse pounding game of the patience: The Waiting Game* \
 Execute: \
 \>> waiting_game() \
 Your target time is 4 seconds. \
 \---Press Enter to Begin---\
 ...Press Enter again after 4 seconds...\
 Elapsed Time: 4.213 seconds (0.213 seconds too low)
+
+---
+### 1.6 Save a dictionary
+**CHALLENGES**\
+*Write a Pyhton function
 
 ## FAQ
 - **How do I do *specifically* so and so?**
