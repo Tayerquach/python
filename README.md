@@ -65,7 +65,13 @@ Elapsed Time: 4.213 seconds (0.213 seconds too low)
 ---
 ### 1.6 Save a dictionary
 **CHALLENGES**\
-*Write a Pyhton function
+*Write a Pyhton function to save a dictionary to file.
+* **Input**: dictionary to save, output file path
+* **Output**: retrieved dictionary object
+* **Hint**: pickle it!\
+Python object <--Pickling or Unpickling --> Byte stream
+
+
 
 ## FAQ
 - **How do I do *specifically* so and so?**
